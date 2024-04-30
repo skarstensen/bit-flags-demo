@@ -1,0 +1,7 @@
+[gd_resource type="Resource" script_class="BitFlagResource" load_steps=2 format=3 uid="uid://2voco6b2oyo5"]
+
+[ext_resource type="Script" path="res://BitFlagResource.gd" id="1_1ya5m"]
+
+[resource]
+script = ExtResource("1_1ya5m")
+types = 5
